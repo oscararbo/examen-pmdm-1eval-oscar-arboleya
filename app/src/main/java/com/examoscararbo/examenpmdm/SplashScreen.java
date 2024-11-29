@@ -1,4 +1,4 @@
-package com.oscararbo.first;
+package com.examoscararbo.examenpmdm;
 
 import android.os.Bundle;
 import android.widget.ImageView;

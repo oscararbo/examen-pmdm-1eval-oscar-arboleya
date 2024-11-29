@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "com.oscararbo.first"
+    namespace = "com.examoscararbo.examenpmdm"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.oscararbo.first"
+        applicationId = "com.examoscararbo.examenpmdm"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
